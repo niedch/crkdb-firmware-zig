@@ -1,0 +1,7 @@
+.{
+    .name = .crkbd_firmware,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.1",
+    .paths = .{""},
+    .fingerprint = 0x6ffedf05548d5528,
+}
